@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 03- Login_Invalid Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccbacb2c-214c-49c9-8cc6-30f864dc2b46</testCaseGuid>
+</TestCaseEntity>
