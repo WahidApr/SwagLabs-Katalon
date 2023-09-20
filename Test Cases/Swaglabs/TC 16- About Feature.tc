@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC 16- Slide Bar_About Feature</name>
+   <name>TC 16- About Feature</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d45c72a0-f1ac-48ed-9a90-46c9f4217d3a</testCaseGuid>

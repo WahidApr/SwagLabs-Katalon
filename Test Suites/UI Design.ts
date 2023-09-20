@@ -28,7 +28,7 @@
       <guid>dd025be3-d7ee-433b-a1ac-9153b60aae81</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Swaglabs/TC 10- Check Products_Singleslide</testCaseId>
+      <testCaseId>Test Cases/Swaglabs/TC 10- Check Products_Infinite scroll</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -42,7 +42,7 @@
       <guid>48c1ef63-c6ea-4ac9-92c2-4f1ef57ca997</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Swaglabs/TC 12- Add to Cart_Singleside</testCaseId>
+      <testCaseId>Test Cases/Swaglabs/TC 12- Add to Cart_Infinite scroll</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -53,17 +53,17 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>38537541-9ccc-4707-ab05-1c407ed662f4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Swaglabs/TC 14- Checkout</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>b874a524-5a31-43c8-86a9-314c6c6345c0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Swaglabs/TC 15- Sort Items</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>16726dbd-61e8-471a-9405-54bd00a9d87c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Swaglabs/TC 16- Slide Bar_About Feature</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

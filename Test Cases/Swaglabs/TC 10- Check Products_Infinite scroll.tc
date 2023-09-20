@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC 12- Add to Cart_Singleside</name>
+   <name>TC 10- Check Products_Infinite scroll</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>940a29dc-0d72-47f8-a7c2-992a24b69df3</testCaseGuid>
+   <testCaseGuid>aa6a0200-a6b2-4aa2-82db-1bc7ef0d719b</testCaseGuid>
 </TestCaseEntity>
